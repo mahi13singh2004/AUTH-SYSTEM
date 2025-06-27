@@ -1,6 +1,6 @@
 # MERN Authentication System
 
-A full-stack authentication system built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). This project implements user signup, login, logout, and protected route handling using **JWT-based cookie authentication**.
+A full-stack authentication system built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). This project implements user signup, login, logout, and protected route handling using **JWT-based cookie authentication, Style it yourself**.
 
 ## 🔧 Tech Stack
 
